@@ -1,1 +1,1 @@
-# merge_conflicts_test
+I'm testing how to resolve some conflicts in github
